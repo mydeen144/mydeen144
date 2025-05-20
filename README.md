@@ -33,7 +33,7 @@
 | 🎓 **Students Xerox** | Laravel-based platform for student doc sharing and requests | Laravel, Tailwind, PgAdmin | [studentsxerox.com](https://studentsxerox.com) |
 | 🌈 **Proudify** | Social engagement & profile app with dynamic UX | WordPress, JS, Custom Theme Dev | [proudify.in](https://proudify.in) |
 | 🌐 **Sevens Ground** | Premium flooring company site optimized for speed and SEO | Laravel, Tailwind, PgAdmin | [sevensground.ae](https://sevensground.ae) |
-| 💼 **WPBlazer Modules** | UI overhaul + modules (SiteBlazer, ProofBlazer, MonitorBlazer) | WordPress, PHP, JavaScript | – |
+| 💼 **WPBlazer Modules** | UI overhaul + modules (SiteBlazer, ProofBlazer, MonitorBlazer) | WordPress Plugin, PHP, Symfony, laravel,  JavaScript | (https://wpblazer.com/),https://blazers.io/, https://blazers.io/proofblazer |
 | 🏗️ **Digital Dopamine / Terrain Flooring / RKM Goa** | Corporate website suite | WordPress | – |
 
 ---
