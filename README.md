@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Mydeen Pitchai</h1>
-<p align="center">
+<h3 align="center">
   💬 "Full stack dev who enjoys turning ideas into real, working products. Always learning, always building."
-</p>
+</h3>
 
 
 <p align="center">
