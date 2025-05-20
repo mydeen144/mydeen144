@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋 I'm Mydeen Pitchai</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Laravel • PHP • WordPress • Tailwind • PostgreSQL</h3>
+<h3 align="center">🚀 Full Stack Web Developer | Laravel • WordPress • Tailwind • PostgreSQL</h3>
 
 <p align="center">
-  <strong>Building digital experiences with performance, scalability, and clean code.</strong>
+  <strong>Building scalable, user-focused apps that solve real-world problems.</strong>
 </p>
 
 <p align="center">
@@ -11,32 +11,36 @@
   <a href="https://github.com/mydeen144"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mydeen144&label=Profile%20views&color=0e75b6&style=flat" alt="Mydeen Pitchai" />
+</p>
+
 ---
 
 ## 🧠 About Me
 
-- 🔭 Full stack developer with **5+ years** building scalable Laravel + WordPress apps.
-- 🛠️ Focused on **clean architecture, reusable components**, and responsive UIs.
-- 🧩 Proud builder of projects that drive real business value — from admin panels to full-scale platforms.
-- 🏆 RAMP Award winner for leading product UI redesign and WordPress module innovation.
-- 🧠 Currently mastering **DevOps**, **API integrations**, and **microservices with PHP backends**.
-- 🗣️ Let’s connect: **mydeen144@gmail.com**
+- 🔭 Full stack developer with **5+ years** building scalable Laravel + WordPress apps
+- 🏆 RAMP Award winner for UI redesign and modular WordPress innovation
+- 💡 Focused on clean architecture, responsive design, and business impact
+- 🛠️ Comfortable across full stack: Laravel, REST APIs, Tailwind UI, WordPress plugins
+- 🌱 Currently learning React & Next.js for full-stack JS development
+- 📫 Reach me at: **mydeen144@gmail.com**
 
 ---
 
 ## 🌍 Featured Projects
 
-| Project Name | Description | Tech Stack | Link |
-|--------------|-------------|------------|------|
-| 🎓 **Students Xerox** | Laravel-based platform for student doc sharing and requests | Laravel, Tailwind, PgAdmin | [studentsxerox.com](https://studentsxerox.com) |
-| 🌈 **Proudify** | Social engagement & profile app with dynamic UX | WordPress, JS, Custom Theme Dev | [proudify.in](https://proudify.in) |
-| 🌐 **Sevens Ground** | Premium flooring company site optimized for speed and SEO | Laravel, Tailwind, PgAdmin | [sevensground.ae](https://sevensground.ae) |
-| 💼 **WPBlazer Modules** | UI overhaul + modules (SiteBlazer, ProofBlazer, MonitorBlazer) | WordPress, PHP, JavaScript | – |
-| 🏗️ **Digital Dopamine / Terrain Flooring / RKM Goa** | Corporate website suite | WordPress | – |
+| Project | Description | Stack | Link |
+|--------|-------------|--------|------|
+| 🎓 **Students Xerox** | Document sharing platform for students | Laravel, Tailwind | [studentsxerox.com](https://studentsxerox.com) |
+| 🌈 **Proudify** | Personal branding/social profile tool | WordPress, JS | [proudify.in](https://proudify.in) |
+| 🌐 **Sevens Ground** | Flooring business website (SEO + Speed) | WordPress | [sevensground.ae](https://sevensground.ae) |
+| 🧰 **WPBlazer Modules** | Custom modules: SiteBlazer, ProofBlazer, UI redesign | PHP, WordPress | – |
+| 💼 **Other Clients** | Terrain Flooring, RKM Goa, Digital Dopamine | WordPress | – |
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
@@ -62,13 +66,12 @@
 </p>
 
 <p align="center">
-  🌱 Exploring **React** and **Next.js** to build fast, SEO-friendly SPAs with modern frontend workflows.  
-  I’m currently experimenting with dynamic routing, API routes, and static generation in real-world projects.
+  🌱 Exploring **React** and **Next.js** to build fast, SEO-friendly, dynamic web apps.
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mydeen144&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
@@ -81,7 +84,7 @@
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:mydeen144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
