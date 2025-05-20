@@ -1,7 +1,8 @@
 <h1 align="center">Hey 👋 I'm Mydeen Pitchai</h1>
 <p align="center">
-  💬 "I’m a full stack developer who enjoys building fast, reliable, and meaningful web experiences. From sleek frontends to powerful backends, I care deeply about writing clean code and solving real problems with smart solutions."
+  💬 "Full stack dev who enjoys turning ideas into real, working products. Always learning, always building."
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mydeen144&label=Profile%20views&color=0e75b6&style=flat" alt="Mydeen Pitchai" />
