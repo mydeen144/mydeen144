@@ -54,6 +54,20 @@
 
 ---
 
+## 🧪 Currently Learning
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+</p>
+
+<p align="center">
+  🌱 Exploring **React** and **Next.js** to build fast, SEO-friendly SPAs with modern frontend workflows.  
+  I’m currently experimenting with dynamic routing, API routes, and static generation in real-world projects.
+</p>
+
+---
+
 ## 📊 GitHub Insights
 
 <p align="center">
