@@ -88,5 +88,5 @@
 <p align="center">
   <a href="mailto:mydeen144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mydeen-pitchai-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://sevensground.ae"><img src="https://img.shields.io/badge/sevensground.ae-Live Site-blue?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+  <a href="https://mydeen-pitchai.vercel.app/"><img src="https://img.shields.io/badge/mydeen-Live Site-blue?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p>
